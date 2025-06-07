@@ -8,9 +8,10 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "react-scripts build",
     "lint": "eslint .",
     "preview": "vite preview"
+
   },
   "dependencies": {
     "framer-motion": "^11.0.8",
